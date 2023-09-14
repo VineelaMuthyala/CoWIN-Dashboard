@@ -1,0 +1,26 @@
+.cowin-dashboard-container {
+  background-color: black;
+  color: white;
+  height: 100%;
+  width: 50%;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  margin-left: 40px;
+}
+.web-site-logo {
+  width: 25px;
+  height: 25px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.co-Win-heading {
+  color: #2cc6c6;
+  font-size: 15px;
+}
+.main-heading {
+  margin-left: 40px;
+  font-size: 15px;
+}
